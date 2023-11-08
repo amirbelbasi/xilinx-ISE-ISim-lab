@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Amir47/source/repos/ISE/session10/ROM_sevenSegment.xst" -ofn "C:/Users/Amir47/source/repos/ISE/session10/ROM_sevenSegment.syr" 
+xst -intstyle ise -ifn "C:/Users/Amir47/source/repos/ISE/session10/ROM_sevenSegment.xst" -ofn "C:/Users/Amir47/source/repos/ISE/session10/ROM_sevenSegment.syr" 

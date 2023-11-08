@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Amir47/source/repos/ISE/session3/RisingEdge_DFlipFlop_AsyncResetLow_tb_isim_beh.exe" -prj "C:/Users/Amir47/source/repos/ISE/session3/RisingEdge_DFlipFlop_AsyncResetLow_tb_beh.prj" "work.RisingEdge_DFlipFlop_AsyncResetLow_tb" 

@@ -1,0 +1,6 @@
+vhdl isim_temp "../session2/and_gate.vhd"
+vhdl isim_temp "../session1/xor_gate.vhd"
+vhdl isim_temp "../session1/or_gate.vhd"
+vhdl isim_temp "../session1/half_adder.vhd"
+vhdl isim_temp "../session1/full_adder.vhd"
+vhdl isim_temp "../session1/full_adder_tb.vhd"

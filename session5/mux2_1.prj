@@ -1,0 +1,4 @@
+vhdl work "../session2/not_gate.vhd"
+vhdl work "../session2/and_gate.vhd"
+vhdl work "../session1/or_gate.vhd"
+vhdl work "mux2_1.vhd"

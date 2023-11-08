@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Amir47/source/repos/ISE/session2/nor_gate.xst" -ofn "C:/Users/Amir47/source/repos/ISE/session2/nor_gate.syr" 
+xst -intstyle ise -ifn "C:/Users/Amir47/source/repos/ISE/session2/nor_gate.xst" -ofn "C:/Users/Amir47/source/repos/ISE/session2/nor_gate.syr" 

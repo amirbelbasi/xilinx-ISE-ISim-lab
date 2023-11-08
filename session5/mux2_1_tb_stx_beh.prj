@@ -1,0 +1,5 @@
+vhdl isim_temp "../session2/not_gate.vhd"
+vhdl isim_temp "../session2/and_gate.vhd"
+vhdl isim_temp "../session1/or_gate.vhd"
+vhdl isim_temp "mux2_1.vhd"
+vhdl isim_temp "mux2_1_tb.vhd"

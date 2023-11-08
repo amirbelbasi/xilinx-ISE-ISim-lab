@@ -1,0 +1,28 @@
+Command line:
+   RisingEdge_DFlipFlop_AsyncResetLow_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50953
+
+Wed Oct 20 10:12:59 2021
+
+
+ Elaboration Time: 0.53125 sec
+
+ Current Memory Usage: 5163.4 Meg
+
+ Total Signals          : 8
+ Total Nets             : 4
+ Total Signal Drivers   : 4
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 3
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 365
+
+ Total Simulation Time: 0.53125 sec
+
+ Current Memory Usage: 5320.69 Meg
+
+Wed Oct 20 10:13:07 2021
+

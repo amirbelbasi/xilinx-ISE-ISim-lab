@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/Amir47/source/repos/ISE/session10/single_port_RAM.xst" -ofn "C:/Users/Amir47/source/repos/ISE/session10/single_port_RAM.syr" 
+xst -intstyle ise -ifn "C:/Users/Amir47/source/repos/ISE/session10/single_port_RAM.xst" -ofn "C:/Users/Amir47/source/repos/ISE/session10/single_port_RAM.syr" 
+xst -intstyle ise -ifn "C:/Users/Amir47/source/repos/ISE/session10/single_port_RAM.xst" -ofn "C:/Users/Amir47/source/repos/ISE/session10/single_port_RAM.syr" 

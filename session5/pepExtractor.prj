@@ -1,0 +1,8 @@
+work	"../session1/full_adder.vhd"
+work	"../session1/half_adder.vhd"
+work	"../session1/or_gate.vhd"
+work	"../session1/xor_gate.vhd"
+work	"../session2/and_gate.vhd"
+work	"../session2/not_gate.vhd"
+work	"carry_select_adder_4bit.vhd"
+work	"mux2_1.vhd"

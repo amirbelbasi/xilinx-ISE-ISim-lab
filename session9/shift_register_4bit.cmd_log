@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Amir47/source/repos/ISE/session9/shift_register_4bit.xst" -ofn "C:/Users/Amir47/source/repos/ISE/session9/shift_register_4bit.syr" 
