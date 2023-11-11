@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+Ripple instance_name (
+    .input1(input1), 
+    .input2(input2), 
+    .cin(cin), 
+    .output(output), 
+    .cout(cout)
+    );
+
+

@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.xst" -ofn "/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.syr" 
+xst -intstyle ise -ifn "/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.xst" -ofn "/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.syr" 

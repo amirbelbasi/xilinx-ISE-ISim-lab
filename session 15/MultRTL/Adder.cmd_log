@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj MultRTL -o E:/newf/Mult_Rtl/MultRTL/Adder.tfi -lib work E:/newf/Mult_Rtl/MultRTL//Adder.v -module Adder -template G:/ISE_Nsb/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

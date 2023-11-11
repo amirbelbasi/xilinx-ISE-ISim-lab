@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.vhd" Line 30: Actual for formal port <arg fmt="%s" index="1">x</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.vhd" Line 31: Actual for formal port <arg fmt="%s" index="1">y</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.vhd" Line 38: Actual for formal port <arg fmt="%s" index="1">x</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.vhd" Line 39: Actual for formal port <arg fmt="%s" index="1">y</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.vhd" Line 46: Actual for formal port <arg fmt="%s" index="1">x</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.vhd" Line 47: Actual for formal port <arg fmt="%s" index="1">y</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.vhd" Line 54: Actual for formal port <arg fmt="%s" index="1">x</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.vhd" Line 62: Actual for formal port <arg fmt="%s" index="1">x</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.vhd" Line 70: Actual for formal port <arg fmt="%s" index="1">x</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.vhd" Line 71: Actual for formal port <arg fmt="%s" index="1">y</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.vhd" Line 78: Actual for formal port <arg fmt="%s" index="1">x</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.vhd" Line 86: Actual for formal port <arg fmt="%s" index="1">x</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.vhd" Line 94: Actual for formal port <arg fmt="%s" index="1">x</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.vhd" Line 95: Actual for formal port <arg fmt="%s" index="1">y</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"/home/bizhaan/my_files/projects/ise/prac10/prac10/arrray.vhd" Line 120: Actual for formal port <arg fmt="%s" index="1">z</arg> is neither a static name nor a globally static expression
+</msg>
+
+</messages>
+

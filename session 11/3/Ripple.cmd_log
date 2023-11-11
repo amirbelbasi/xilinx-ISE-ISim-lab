@@ -1,0 +1,2 @@
+vhdtdtfi -prj prac11 -o /home/bizhaan/my_files/projects/ise/prac11/prac11/Ripple.tfi -module Ripple -template /home/bizhaan/installed_softwares/xilinx_ise_14.7/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work ../../prac10/prac10/FA.vhd -lib work ../../prac6/prac6/Ripple.vhd 
+vhdtdtfi -prj prac11 -o /home/bizhaan/my_files/projects/ise/prac11/prac11/Ripple.tfi -module Ripple -template /home/bizhaan/installed_softwares/xilinx_ise_14.7/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work ../../prac10/prac10/FA.vhd -lib work ../../prac6/prac6/Ripple.vhd 

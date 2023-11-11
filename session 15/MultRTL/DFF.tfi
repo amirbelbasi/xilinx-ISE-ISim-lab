@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+DFF instance_name (
+    .Clk(Clk), 
+    .Rst(Rst), 
+    .D(D), 
+    .Q(Q)
+    );
+
+

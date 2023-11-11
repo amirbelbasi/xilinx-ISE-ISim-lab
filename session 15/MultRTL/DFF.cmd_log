@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj MultRTL -o E:/newf/Mult_Rtl/MultRTL/DFF.tfi -lib work E:/newf/Mult_Rtl/MultRTL//DFF.v -module DFF -template G:/ISE_Nsb/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

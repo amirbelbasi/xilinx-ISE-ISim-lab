@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/bizhaan/my_files/projects/ise/prac4_1/SD.xst" -ofn "/home/bizhaan/my_files/projects/ise/prac4_1/SD.syr" 

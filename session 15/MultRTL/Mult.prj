@@ -1,0 +1,7 @@
+verilog work "Fa.v"
+verilog work "DFF.v"
+verilog work "M_Res.v"
+verilog work "M_Cand.v"
+verilog work "Control.v"
+verilog work "Adder.v"
+verilog work "Mult.v"

@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+Fa instance_name (
+    .a(a), 
+    .b(b), 
+    .cin(cin), 
+    .s(s), 
+    .c(c)
+    );
+
+

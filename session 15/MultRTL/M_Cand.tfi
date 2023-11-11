@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+M_Cand instance_name (
+    .A(A), 
+    .Clk(Clk), 
+    .Rst(Rst), 
+    .Load(Load), 
+    .RA(RA)
+    );
+
+

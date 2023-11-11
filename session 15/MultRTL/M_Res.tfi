@@ -1,0 +1,18 @@
+
+
+
+// Instantiate the module
+M_Res instance_name (
+    .Clk(Clk), 
+    .Rst(Rst), 
+    .Add(Add), 
+    .Shift(Shift), 
+    .Load(Load), 
+    .B(B), 
+    .SUM(SUM), 
+    .RC(RC), 
+    .RB(RB), 
+    .LSB(LSB)
+    );
+
+

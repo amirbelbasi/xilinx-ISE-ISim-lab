@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+Adder instance_name (
+    .RA(RA), 
+    .RB(RB), 
+    .Add_Out(Add_Out), 
+    .C_Out(C_Out)
+    );
+
+

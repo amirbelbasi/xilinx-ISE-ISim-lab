@@ -1,0 +1,3 @@
+vhdl work "../../prac6/prac6/FA.vhd"
+vhdl work "../../prac6/prac6/Ripple.vhd"
+vhdl work "BCD_ADDER.vhd"

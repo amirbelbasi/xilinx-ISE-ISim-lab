@@ -1,0 +1,4 @@
+vhdl work "../../prac10/prac10/FA.vhd"
+vhdl work "../../prac6/prac6/Ripple.vhd"
+vhdl work "CSA.vhd"
+vhdl work "CSA_M.vhd"
