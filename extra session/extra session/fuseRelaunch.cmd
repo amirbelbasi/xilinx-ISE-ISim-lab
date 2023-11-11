@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Amir47/source/repos/ISE/session5/ripple_carry_adder_4bit_tb_isim_beh.exe" -prj "C:/Users/Amir47/source/repos/ISE/session5/ripple_carry_adder_4bit_tb_beh.prj" "work.ripple_carry_adder_4bit_tb" 
